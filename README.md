@@ -56,5 +56,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 BabyPuppy - [@BabyPuppyCoin](https://twitter.com/BabyPuppyCoin)
 Project Link: [https://github.com/BabyPuppyCoin/puppy-contracts](https://github.com/BabyPuppyCoin/puppy-contracts])
+Website: [https://babypuppycoin.com](https://babypuppycoin.com])
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
