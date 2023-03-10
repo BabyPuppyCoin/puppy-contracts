@@ -3,11 +3,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/babypuppycoin/puppy-contracts">
+  <a href="https://github.com/BabyPuppyCoin/puppy-contracts">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">BabyPuppy Smart Contracts</h3>
 
   <p align="center">
     Here you can find the PUPPY Smart Contracts that have been deployed
@@ -30,8 +30,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://babypuppycoin.com)
 
 The PUPPY Project is a blockchain-based project that is community driven. We are dedicated to creating a unique and innovative ecosystem that leverages the power of blockchain technology to provide a seamless experience for our users. Our team is committed to building a sustainable and inclusive project that is accessible to users of all backgrounds and skill levels.
 
@@ -60,7 +58,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-BabyPuppy - [@your_twitter](https://twitter.com/babypuppycoin)
-Project Link: [https://github.com/babypuppycoin/puppy-contracts](https://github.com/babypuppycoin/puppy-contracts])
+BabyPuppy - [@BabyPuppyCoin](https://twitter.com/BabyPuppyCoin)
+Project Link: [https://github.com/BabyPuppyCoin/puppy-contracts](https://github.com/BabyPuppyCoin/puppy-contracts])
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
