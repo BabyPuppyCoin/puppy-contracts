@@ -58,6 +58,6 @@ BabyPuppy - [@BabyPuppyCoin](https://twitter.com/BabyPuppyCoin)
 <br>
 Project Link: [https://github.com/BabyPuppyCoin/puppy-contracts](https://github.com/BabyPuppyCoin/puppy-contracts])
 <br>
-Website: [https://babypuppycoin.com](https://babypuppycoin.com])
+Website: https://babypuppycoin.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
