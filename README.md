@@ -54,8 +54,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-<p align="left">BabyPuppy - [@BabyPuppyCoin](https://twitter.com/BabyPuppyCoin)</p>
-<p align="left">Project Link: [https://github.com/BabyPuppyCoin/puppy-contracts](https://github.com/BabyPuppyCoin/puppy-contracts])</p>
-<p align="left">Website: [https://babypuppycoin.com](https://babypuppycoin.com])</p>
+BabyPuppy - [@BabyPuppyCoin](https://twitter.com/BabyPuppyCoin)
+<br>
+Project Link: [https://github.com/BabyPuppyCoin/puppy-contracts](https://github.com/BabyPuppyCoin/puppy-contracts])
+<br>
+Website: [https://babypuppycoin.com](https://babypuppycoin.com])
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
